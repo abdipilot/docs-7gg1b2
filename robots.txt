@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-p0dirp.yoursingles.online/sitemap.xml
